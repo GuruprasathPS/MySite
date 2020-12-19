@@ -1,0 +1,174 @@
+body{
+  text-align: center;
+
+}
+
+h1{
+  color: #66BFBF;
+  font-family: 'Great Vibes', cursive;
+  line-height: 1.5;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+h3{
+  color: #11999E;
+}
+
+p{
+  color: #40514E;
+  font-family: 'Roboto', sans-serif;
+}
+
+.title{
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: black;
+  padding: 0;
+}
+
+.first-container{
+  padding-top: 2rem;
+  position: relative;
+  background-color: #EAF6F6;
+}
+
+.cloud-img1{
+  position: absolute;
+  top: 1rem;
+  right: 20rem;
+}
+
+.cloud-img2{
+  position: absolute;
+  top: 9rem;
+  left: 25rem;
+}
+
+.ProfilePic{
+  width: 10%;
+}
+
+
+
+.second-container{
+  padding-top: 4rem;
+}
+
+.line-break{
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: thick;
+  height: 0;
+  border-color: #ebd4d4;
+  padding-bottom: 3rem;
+}
+
+.image1{
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 2rem;
+}
+
+.image2{
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 2rem;
+}
+
+.image3{
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 2rem;
+}
+
+.image4{
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 2rem;
+}
+
+.third-container{
+  width: 60%;
+  margin: 0 auto;
+}
+
+.skill-title1{
+text-align: left;
+}
+
+.skill-title2{
+text-align: left;
+}
+
+.sub-container{
+text-align: justify;
+padding-bottom: 2rem;
+line-height: 2;
+}
+
+.skill-container1{
+  padding: 2rem;
+}
+
+.BUTTON_VQM {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   height: 50px;
+   line-height: 50px;
+   color: #000000;
+   font-family: Open Sans;
+   width: 200px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 0;
+   background-color: #3D94F6;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_VQM:hover {
+   background: #BD5252;
+   border: solid #FFFFFF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+a{
+  font-family: 'Jura', sans-serif;
+  text-decoration: none;
+}
+
+a:hover{
+  color: white;
+}
+
+.fifth-container{
+  background-color: #6a097d;
+}
+
+.Base-link{
+  color: #000000;
+  font-weight: bolder;
+  display: inline-block;
+  width: 10%;
+  margin: 2rem auto;
+}
